@@ -1,0 +1,11 @@
+.doltcfg/
+.clean-slate-backups/
+*.patch
+BUILD_BASIC_*.md
+*_HANDOFF*.md
+*.local
+.env
+
+
+# Build artifacts
+bin/

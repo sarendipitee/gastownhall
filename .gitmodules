@@ -1,0 +1,18 @@
+[submodule "gascity"]
+	path = gascity
+	url = https://github.com/gastownhall/gascity.git
+[submodule "beads"]
+	path = beads
+	url = https://github.com/gastownhall/beads.git
+[submodule "beads-backend-doltlite"]
+	path = beads-backend-doltlite
+	url = https://github.com/duncan4123/beads-backend-doltlite.git
+[submodule "gascity-packs"]
+	path = gascity-packs
+	url = https://github.com/gastownhall/gascity-packs.git
+[submodule "gascity-dashboard"]
+	path = gascity-dashboard
+	url = https://github.com/gastownhall/gascity-dashboard.git
+[submodule "dolt"]
+	path = dolt
+	url = https://github.com/dolthub/dolt.git
